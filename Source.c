@@ -33,6 +33,7 @@ int main(int argc, char *argv[])
 			} while (right_bracket != left_brackets);
 		}
 		else printf("%s", c);
+
 	}
 	printf("\n");
 	system("pause");
